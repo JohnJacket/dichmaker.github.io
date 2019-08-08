@@ -23,7 +23,7 @@
 }
 .social-media-list li a {
     display: block;
-    padding: 7.5px;
+    padding-bottom: 0px;
     border: 0px solid #e8e8e8;
 }
 .social-media-list li:hover .svg-icon {
@@ -34,11 +34,11 @@
     width: 16px;
     height: 16px;
     display: inline-block;
-    fill: currentColor;
-    padding: 5px 3px 2px 5px;
+    fill: black;
+    padding: 2px 2px 2px 2px;
     vertical-align: text-bottom; 
 }
 
 .page-content {
-    margin-top: $spacing-unit * -1;
+    padding: 0 0;
 }
