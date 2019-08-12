@@ -1,6 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
 ---
+
+#### Dmitrii Kilchanov home page.
+
+### Links
+[Blog][1] - my personal blog about it, security, art and life.
+
+[Soundcloud][2] - little part of my music.
+
+[1]: ../blog/
+[2]: https://soundcloud.com/lymbin
