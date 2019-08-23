@@ -4,8 +4,6 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
  Personal page
 
-
-
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format

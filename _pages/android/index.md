@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Android
+permalink: /android/
 ---
 
 TODO: make this on english

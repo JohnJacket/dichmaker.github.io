@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Android
+permalink: /android/tools.html
 ---
 
 TODO: make this on english
